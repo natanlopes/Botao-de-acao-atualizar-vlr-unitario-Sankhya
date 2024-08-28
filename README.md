@@ -1,5 +1,5 @@
 # Botão de Ação atualizar o Valor unitario dos itens Sankhya
-![Logo da ArgoFruta](https://argofruta.com/wp-content/uploads/2021/05/Logo-text-white-1.png)
+
 
 
 # Atualização de Valores Unitários
@@ -68,6 +68,3 @@ A saída HTML gerada pelo método `doAction` terá a seguinte estrutura:
 </html>
 ```
 
-- ### USUARIOS 
-- USUARIO RESPONSAVEL: Ana Carolina
-- EMAIL : ana.santos@argofruta.com
